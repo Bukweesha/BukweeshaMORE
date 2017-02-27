@@ -23,3 +23,6 @@ li {
  li a:hover {
    background-color:#006400;
 }
+ h1 {text-align: center;
+    height:100px;
+}
