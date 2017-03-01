@@ -36,3 +36,7 @@ li {
  p {text-align: center;
    height:18px
 }
+ img {
+   display: block;
+   margin: 0 auto;
+}
